@@ -68,7 +68,7 @@
 
   > 注意：GPU 加速目前仅在从源码运行时可用。
 
-* **浏览器扩展**: 从 [Chrome Web Store](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID) 安装适用于基于 Chromium 的浏览器（Chrome、Edge、Brave 等）的 Comic Translate 浏览器扩展，以便直接在网页上阅读。
+* **浏览器扩展**: 从 [Chrome Web Store](https://chromewebstore.google.com/detail/comic-translate/hdkkhpjikkbdopnjdgphcohofonjkcpd?hl=zh) 安装适用于基于 Chromium 的浏览器（Chrome、Edge、Brave 等）的 Comic Translate 浏览器扩展，以便直接在网页上阅读。
 
 ### 从源码安装
 或者，如果您想直接运行源代码。
